@@ -1,3 +1,7 @@
 test.py
 test.java
-test.j
+test.js
+cnbc-algorithms-analysis-and-design-from-scratch.iml
+
+.idea/*
+.vscode/*
