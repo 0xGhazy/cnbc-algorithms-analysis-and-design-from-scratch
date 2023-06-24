@@ -3,5 +3,6 @@ test.java
 test.js
 cnbc-algorithms-analysis-and-design-from-scratch.iml
 
-.idea/*
-.vscode/*
+/.idea/
+/.vscode/
+out
